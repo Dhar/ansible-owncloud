@@ -45,4 +45,4 @@ Author Information
 
 Gary Arnold
 
-[GitHub project page](https://github.com/gdamjan/ansible-gitlab)
+[GitHub project page](https://github.com/Dhar/ansible-owncloud)
